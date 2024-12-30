@@ -1,4 +1,19 @@
-# ExamZIP
+# ExamZIP 🎯
+
+## Introducción
+
+**ExamZIP** es una colección de ejercicios de programación organizados por niveles de dificultad, diseñados para fortalecer habilidades en manipulación de cadenas, control de flujo y algoritmos. 
+
+Cada nivel incluye desafíos prácticos que abarcan desde funciones básicas hasta operaciones avanzadas con cadenas y números.
+
+Usa **ExamZIP** para:
+
+- Practicar conceptos clave de programación.
+- Prepararte para evaluaciones técnicas.
+- Mejorar tu lógica y habilidades de resolución de problemas.
+
+¡Comienza con el nivel que más te convenga y avanza hasta dominar todos los ejercicios!
+
 
 | Nivel | Ejercicio | Descripción |
 |---|---|---|
