@@ -13,12 +13,12 @@
 | 04 | aff_last_paran | Programa que tome cadenas como argumentos y muestre su ultimo argumento. |
 | 05 | first_word | Programa que tome una cadena y muestre su primera palabra. |
 | 05 | rot_13 | Programa que tome una cadena y la muestre, reemplazando cada una de sus letras por la letra 13 espacios adelante en orden alfabético. |
-| 05 | rotone |
-| 06 | inter |
-| 06 | last_word |
-| 06 | union |
-| 07 | ft_itoa |
-| 07 | ft_range |
-| 07 | ft_rrange |
-| 08 | expand_str |
-| 08 | ft_split |
+| 05 | rotone | Programa que tome una cadena y la muestre, reemplazando cada una de sus letras por la siguiente en orden alfabético.
+| 06 | inter | Imprime los caracteres sin duplicados del primer argumento y que también aparezcan en el segundo argumento |
+| 06 | last_word | Imprime la última palabra del argumento, obviando espacios al final. |
+| 06 | union | Imprime los caracteres sin duplicados de los dos argumentos. |
+| 07 | ft_itoa | Función que convierte un int en un carácter ascii. |
+| 07 | ft_range | Función que devuelve un puntero a un array de números en orden ascendente. |
+| 07 | ft_rrange | Función que devuelve un puntero a un array de números en orden descendente. |
+| 08 | expand_str | Imprime un argumento separando con 3 espacios las palabras, obviando espacios al principio y al final. |
+| 08 | ft_split | Función que divide en palabras un argumento y devuelve un array con los "strings". |
