@@ -2,7 +2,7 @@
 <p align="justify">
 Es una colección de ejercicios prácticos diseñados para prepararte para el Examen ZIP, una evaluación técnica que pone a prueba habilidades en programación. Los ejercicios se centran en manipulación de cadenas, lógica iterativa y funciones personalizadas, organizados por niveles de dificultad para facilitar tu progreso.
 
-Este proyecto te ayudará a dominar los fundamentos necesarios para superar el examen.
+Este proyecto ayuda a dominar los fundamentos necesarios para superar el examen.
 </p>
 
 ## Lista de ejercicios
@@ -31,8 +31,6 @@ Este proyecto te ayudará a dominar los fundamentos necesarios para superar el e
 
 ### Resultado del Examen
 
-|---|---|
-| Intentos Realizados    | 4        |
-| Ejercicios Completados | 8/10     |
-| Estado                 | <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/examan.png" alt="exam logo" width="50"/> |
-
+| Intentos Realizados | 4 |
+| Ejercicios Completados | 8/10 |
+| Estado | <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/examan.png" alt="exam logo" width="80"/> |
