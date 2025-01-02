@@ -31,17 +31,12 @@ Este proyecto te ayudará a dominar los fundamentos necesarios para superar el e
 
 ### Resultado del Examen
 
-Después de completar los ejercicios del **Examen ZIP**, tu resultado refleja tu progreso y nivel de habilidad en programación. Aquí están los detalles de tu desempeño:
+
+| Intentos Realizados       | 4                                                                                                               |
+| Ejercicios Completados    | 8/10                                                                                                            |
+| Estado                    | <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/examan.png" alt="exam logo" width="50"/>|
+
 
 - **Intentos Realizados**: 4
 - **Ejercicios Completados**: 8/10
-- **Estado**: 
-
-<p align="left">
-  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/examan.png" alt="exam logo" width="100"/>
-</p>
-
-| **Intentos Realizados** | **Ejercicios Completados** | **Estado** |
-|--------------------------|----------------------------|------------|
-| 4                        | 8/10                      | <p align="left"><img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/examan.png" alt="exam logo" width="100"/></p> |
-
+- **Estado**: Aprobado
