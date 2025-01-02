@@ -4,6 +4,12 @@
 
 Este proyecto es ideal para estudiantes, desarrolladores que buscan practicar conceptos fundamentales, o quienes se preparan para evaluaciones técnicas. Los ejercicios son sencillos, prácticos y están diseñados para ayudar a mejorar de manera incremental.
 
+### **Evaluación**
+<p align="left">
+  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/ok_100.png" alt="gnl logo" width="100"/>
+</p>
+
+
 | Nivel | Ejercicio | Descripción |
 |---|---|---|
 | 01 | aff_a | Imprime 'a' si hay un argumento. |
