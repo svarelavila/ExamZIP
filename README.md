@@ -1,14 +1,13 @@
 # ExamZIP 🎯
 
-**ExamZIP** es una colección de ejercicios diseñados para fortalecer habilidades de programación. Cada ejercicio aborda temas clave como manipulación de cadenas, lógica iterativa, y creación de funciones personalizadas, organizados por niveles de dificultad para facilitar el progreso.
+Es una colección de ejercicios prácticos diseñados para prepararte para el **Examen ZIP**, una evaluación técnica que pone a prueba habilidades en programación. Los ejercicios se centran en manipulación de cadenas, lógica iterativa y funciones personalizadas, organizados por niveles de dificultad para facilitar tu progreso.
 
-Este proyecto es ideal para estudiantes, desarrolladores que buscan practicar conceptos fundamentales, o quienes se preparan para evaluaciones técnicas. Los ejercicios son sencillos, prácticos y están diseñados para ayudar a mejorar de manera incremental.
+Este proyecto te ayudará a dominar los fundamentos necesarios para superar el examen.
 
-### **Evaluación**
+### Resultado del examen
 <p align="left">
   <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/ok_100.png" alt="gnl logo" width="100"/>
 </p>
-
 
 | Nivel | Ejercicio | Descripción |
 |---|---|---|
