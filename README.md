@@ -31,6 +31,9 @@ Este proyecto ayuda a dominar los fundamentos necesarios para superar el examen.
 
 ### Resultado del Examen
 
-| Intentos Realizados | 4 |
-| Ejercicios Completados | 8/10 |
-| Estado | <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/examan.png" alt="exam logo" width="80"/> |
+- *Intentos Realizados*: 4
+- *Ejercicios Completados*: 8/10
+- *Estado*: 
+  <p>
+  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/examan.png" alt="exam logo" width="100"/>
+  </p>
