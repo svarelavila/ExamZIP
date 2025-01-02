@@ -1,36 +1,29 @@
 # ExamZIP 🎯
 
-**ExamZIP** es una colección de ejercicios de programación organizados por niveles de dificultad, diseñados para fortalecer habilidades en manipulación de cadenas, control de flujo y algoritmos. 
+**ExamZIP** es una colección de ejercicios diseñados para fortalecer habilidades de programación. Cada ejercicio aborda temas clave como manipulación de cadenas, lógica iterativa, y creación de funciones personalizadas, organizados por niveles de dificultad para facilitar el progreso.
 
-Cada nivel incluye desafíos prácticos que abarcan desde funciones básicas hasta operaciones avanzadas con cadenas y números.
-
-Usa **ExamZIP** para:
-
-- Practicar conceptos clave de programación.
-- Prepararte para evaluaciones técnicas.
-- Mejorar tu lógica y habilidades de resolución de problemas.
-
-¡Comienza con el nivel que más te convenga y avanza hasta dominar todos los ejercicios!
+Este proyecto es ideal para estudiantes, desarrolladores que buscan practicar conceptos fundamentales, o quienes se preparan para evaluaciones técnicas. Los ejercicios son sencillos, prácticos y están diseñados para ayudar a mejorar de manera incremental.
 
 | Nivel | Ejercicio | Descripción |
 |---|---|---|
-| 01 | aff_a | Imprime 'a' excepto si el primer argumento no existe. |
-| 01 | aff_z | Imprime 'z' si o si. |
-| 02 | ft_putstr | Función que imprime str. |
-| 02 | ft_strlen | Función que devuelve el tamaño de un string. |
-| 02 | rev_print | Programa que toma un str y lo muestra del revés. |
-| 03 | buzzbizz | Programa que imprima los números del 1 al 100. |
-| 03 | fizzbuzz | Programa que imprima los números del 1 al 100. |
-| 04 | aff_first_param | Programa que tome cadenas como argumentos y muestre su primer argumento. |
-| 04 | aff_last_paran | Programa que tome cadenas como argumentos y muestre su ultimo argumento. |
-| 05 | first_word | Programa que tome una cadena y muestre su primera palabra. |
-| 05 | rot_13 | Programa que tome una cadena y la muestre, reemplazando cada una de sus letras por la letra 13 espacios adelante en orden alfabético. |
-| 05 | rotone | Programa que tome una cadena y la muestre, reemplazando cada una de sus letras por la siguiente en orden alfabético.
-| 06 | inter | Imprime los caracteres sin duplicados del primer argumento y que también aparezcan en el segundo argumento |
-| 06 | last_word | Imprime la última palabra del argumento, obviando espacios al final. |
-| 06 | union | Imprime los caracteres sin duplicados de los dos argumentos. |
-| 07 | ft_itoa | Función que convierte un int en un carácter ascii. |
-| 07 | ft_range | Función que devuelve un puntero a un array de números en orden ascendente. |
-| 07 | ft_rrange | Función que devuelve un puntero a un array de números en orden descendente. |
-| 08 | expand_str | Imprime un argumento separando con 3 espacios las palabras, obviando espacios al principio y al final. |
-| 08 | ft_split | Función que divide en palabras un argumento y devuelve un array con los "strings". |
+| 01 | aff_a | Imprime 'a' si hay un argumento. |
+| 01 | aff_z | Imprime 'z' siempre. |
+| 02 | ft_putstr | Imprime un string. |
+| 02 | ft_strlen | Retorna la longitud de un string. |
+| 02 | rev_print | Imprime un string al revés. |
+| 03 | buzzbizz | Imprime números del 1 al 100 (con reglas). |
+| 03 | fizzbuzz | Imprime números del 1 al 100 (con otras reglas). |
+| 04 | aff_first_param | Imprime el primer argumento. |
+| 04 | aff_last_paran | Imprime el último argumento. |
+| 05 | first_word | Imprime la primera palabra. |
+| 05 | rot_13 | Reemplaza letras con ROT13. |
+| 05 | rotone | Reemplaza letras con la siguiente. |
+| 06 | inter | Imprime caracteres comunes entre dos cadenas. |
+| 06 | last_word | Imprime la última palabra. |
+| 06 | union | Imprime caracteres únicos combinados. |
+| 07 | ft_itoa | Convierte un entero a string. |
+| 07 | ft_range | Array de números ascendentes. |
+| 07 | ft_rrange | Array de números descendentes. |
+| 08 | expand_str | Imprime palabras separadas por 3 espacios. |
+| 08 | ft_split | Divide una cadena en palabras. |
+
