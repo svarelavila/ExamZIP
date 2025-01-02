@@ -1,12 +1,8 @@
 # ExamZIP 🎯
-
+<p align="justify">
 Es una colección de ejercicios prácticos diseñados para prepararte para el **Examen ZIP**, una evaluación técnica que pone a prueba habilidades en programación. Los ejercicios se centran en manipulación de cadenas, lógica iterativa y funciones personalizadas, organizados por niveles de dificultad para facilitar tu progreso.
 
 Este proyecto te ayudará a dominar los fundamentos necesarios para superar el examen.
-
-### Resultado del examen
-<p align="left">
-  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/ok_100.png" alt="gnl logo" width="100"/>
 </p>
 
 | Nivel | Ejercicio | Descripción |
@@ -32,3 +28,7 @@ Este proyecto te ayudará a dominar los fundamentos necesarios para superar el e
 | 08 | expand_str | Imprime palabras separadas por 3 espacios. |
 | 08 | ft_split | Divide una cadena en palabras. |
 
+### Resultado del examen
+<p align="left">
+  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/examan.png" alt="exam logo" width="100"/>
+</p>
